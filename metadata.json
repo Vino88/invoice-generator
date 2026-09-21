@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator Pro",
+  "description": "Aplikasi pembuat invoice profesional dengan form builder dinamis, ekspor PDF, dan pengiriman via WhatsApp serta Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
